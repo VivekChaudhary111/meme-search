@@ -102,9 +102,7 @@ MIT License - freely use kar sakte ho, modify kar sakte ho, distribute kar sakte
 
 ## Contact (Baat karna hai?)
 
-- Email: your.email@gmail.com
-- Twitter: @yourusername
-- LinkedIn: /in/yourprofile
+- Email: vivekchaudharyfor121@gmail.com
 
 ## Acknowledgments (Thanks to)
 
